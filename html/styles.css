@@ -1,6 +1,12 @@
-body{
+body {
 	text-align: center;
 }
+
+#about_table {
+width: 100%;
+text-align: center;
+}
+
 #last 
 {
 	text-align: center;
